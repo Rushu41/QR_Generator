@@ -12,12 +12,10 @@
     border-radius: 10px;
     position: relative;
 }
-/* Gradient background */
 .bg-gradient-to-r {
     background: linear-gradient(to right, #9b5de5, #f15bb5, #f25f4c);
 }
 
-/* Container for stars */
 .stars {
     position: absolute;
     width: 100%;
@@ -26,7 +24,6 @@
     z-index: 0;
 }
 
-/* Individual star */
 .star {
     position: absolute;
     background: rgba(255, 255, 255, 0.8);
